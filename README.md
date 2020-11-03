@@ -1,6 +1,8 @@
 # UcomSeminario
 #  Análisis de Series temporales para mejorar la previsión de casos de dengue con Deep Learning
-Instructor: [Diego Stalder][Juan Vicente Bogado]
+Disertantes:
+[Diego Stalder]
+[Juan Vicente Bogado]
 
 **Repositorio**,  [GitHub](https://github.com/diegostaPy/UcomSeminario).
 
